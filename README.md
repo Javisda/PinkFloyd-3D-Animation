@@ -24,5 +24,5 @@
   <li>Custom cloth physics implemented on flag and cape (a mistborn book reference). Custom cloth physics project on my github as well.</li>
   <li>Custom solid physics implemented on students and plants. Custom solid physics project on my github as well.</li>
   
-  <li>Video editing of course. Im not into this field so that´s all I tried :)</li>
+  <li>Video editing of course. I´m not into this field so that´s all I tried :). Video song selected in order as played in the album, but with 1 or 2 modifications.</li>
 </ul>
