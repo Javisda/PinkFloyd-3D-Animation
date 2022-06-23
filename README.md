@@ -26,3 +26,17 @@
   
   <li>Video editing of course. I´m not into this field so that´s all I tried :). Video song selected in order as played in the album, but with 1 or 2 modifications.</li>
 </ul>
+
+
+<br>
+
+<p align="center">
+  <img src="Assets/GitImages/BuenaVista.png">
+  <img src="Assets/GitImages/Chopped.png">
+  <img src="Assets/GitImages/Hammers.png">
+  <img src="Assets/GitImages/Student.png">
+  <img src="Assets/GitImages/Flag.png">
+  <img src="Assets/GitImages/Cape.png">
+  <img src="Assets/GitImages/Solids.png">
+  <img src="Assets/GitImages/Reference.png">
+</p>
